@@ -43,7 +43,6 @@ static int sort_signal_fn (const void *j1, const void *j2)
 	printf("Field %s does not exist\n", "signal");
 
 
-
 	i1 = json_object_get_int(jso3);
 	i2 = json_object_get_int(jso4);
 
