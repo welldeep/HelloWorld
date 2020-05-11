@@ -49,6 +49,11 @@ static int sort_signal_fn (const void *j1, const void *j2)
 	return -(i1 - i2);
 }
 
+/**
+ * @brief 
+ * 
+ * @return int 
+ */
 int main(void) {
 	json_object *ssid_array, *ssid_object;
 	int i;
