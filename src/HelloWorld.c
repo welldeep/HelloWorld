@@ -50,7 +50,7 @@ static int sort_signal_fn (const void *j1, const void *j2)
 }
 
 /**
- * @brief 
+ * @brief main entry
  * 
  * @return int 
  */
